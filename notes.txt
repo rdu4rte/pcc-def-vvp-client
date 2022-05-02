@@ -1,0 +1,43 @@
+@ vue, vite, pinia:
+------------------------------------------------------------------
+@ start project:
+
+- first steps:
+
+$ yarn create vite // create project
+$ yarn // install dependencies
+$ yarn dev // start project
+
+- install vue-router and pinia:
+
+$ yarn add vue-router@4 pinia
+
+- eslint & prettier:
+
+$ yarn add -D eslint eslint-config-prettier eslint-plugin-vue prettier vite-plugin-eslint vue-eslint-parser
+
+------------------------------------------------------------------
+@ articles:
+
+- vite: https://vitejs.dev/guide/
+- template: https://hackernoon.com/build-a-single-page-web3-app-with-vue-3-vite-and-pinia
+- composition api: https://blog.cod3r.com.br/o-que-mudou-do-vue-2-para-o-vue-3/
+- vuetify alpha: https://next.vuetifyjs.com/en/getting-started/installation/
+- vue apollo: https://v4.apollo.vuejs.org/guide-option/setup.html#_3-create-the-apollo-provider
+- eslint: https://github.com/rdu4rte/vue-vite-pinia-template/blob/main/.eslintrc.js
+- setup eslint and prettier: https://vueschool.io/articles/vuejs-tutorials/eslint-and-prettier-with-vite-and-vue-js-3/
+- setup bootstrap: https://larainfo.com/blogs/how-to-install-bootstrap-5-in-vue-3
+------------------------------------------------------------------
+@ dependencies:
+
+yarn add -D @types/node @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-plugin-vue sass vite-plugin-eslint vue-eslint-parser
+------------------------------------------------------------------
+@ projects:
+
+https://github.com/vok123/vue3-ts-vite-ssr-starter
+https://github.com/BreizhReloaded/my-vue-app
+------------------------------------------------------------------
+@ videos:
+
+https://www.youtube.com/watch?v=Ok6vO98RV_Q&ab_channel=ProgramWithErik
+------------------------------------------------------------------
